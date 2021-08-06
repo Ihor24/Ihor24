@@ -1,6 +1,6 @@
 ## Hello
 
-My name is Ihor24
+My name is Ihor
 
 I’m a passionate electronic engineer student with a vested interest in embeded systems
 
